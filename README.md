@@ -2,8 +2,8 @@
 
 <!--
 **mgmessie/mgmessie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
+<a href="https://app.daily.dev/mgmouk"><img src="https://github.com/mgmessie/mgmessie/raw/main/devcard.svg" width="400" alt="Messie Dev Card"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
